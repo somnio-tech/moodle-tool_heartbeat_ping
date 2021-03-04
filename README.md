@@ -2,7 +2,7 @@
 
 This plugin allows you to check your cronjobs/schedule task with an external API that will read heartbeats.
 
-##Usage
+## Usage ##
 Create a HeartBeat monitor in <https://cronitor.io/>.
 Set a rule to alert you if the complete endpoint has not pinged in 3 hours.
 There is an Schedule Task that runs every 2 hours which will ping your endpoint.
