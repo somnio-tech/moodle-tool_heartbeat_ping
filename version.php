@@ -26,6 +26,6 @@ defined('MOODLE_INTERNAL') || die();
 
 $plugin->component = 'tool_heartbeat_ping';
 $plugin->release = '0.1.0';
-$plugin->version = 2021030201;
+$plugin->version = 2021031001;
 $plugin->requires = 2018051700;
 $plugin->maturity = MATURITY_STABLE;
